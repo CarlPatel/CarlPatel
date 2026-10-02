@@ -8,15 +8,7 @@ I’m interested in scalable systems, distributed systems, and cloud infrastruct
 ## Currently
 
 🎓 M.S.E. in Scalable Systems @ Carnegie Mellon University  
-📱 Developing HappyHour, a native iOS app for discovering nearby bar deals  
-☁️ AWS Certified Cloud Practitioner  
-
-
-## Experience
-
-* **Iterate.ai** - Automated database ingestion and developed AI cloud solutions using AWS services for enterprise clients.  
-* **Collaborative Healthcare Strategies** - Built a HIPAA-compliant healthcare web application using React and AWS services including DynamoDB, API Gateway, and Cognito.  
-* **Tresle AI** - Implemented RBAC and OpenSearch database integrations for AI-powered enterprise applications.  
+📱 Developing HappyHour, an iOS app for discovering nearby bar deals  
 
 
 ## Technologies
